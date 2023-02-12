@@ -2,7 +2,7 @@
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22C65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="Car" representedClassName="Car" syncable="YES" codeGenerationType="class">
         <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
-        <attribute name="lastStatred" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="lastStarted" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
         <attribute name="mark" optional="YES" attributeType="String"/>
         <attribute name="model" optional="YES" attributeType="String"/>
         <attribute name="myChoice" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
